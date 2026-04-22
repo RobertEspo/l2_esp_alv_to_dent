@@ -1,0 +1,9 @@
+project:
+  title: "Development of L1 English L2 Spanish /t d/ + Rhotic Clusters"
+  render:
+    - "*.qmd"
+    - "!./docs/lit/"
+    - "README.qmd"
+
+bibliography: ./lit/l2_esp_alv_to_dent.bib
+csl: ./lit/apa.csl
