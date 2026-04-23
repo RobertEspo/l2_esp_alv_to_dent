@@ -1,0 +1,82 @@
+---
+title: "Literature Review"
+author: "Robert Esposito"
+format: pdf
+---
+
+# Paper Summaries
+
+## @bliss2018computer
+
+Ultrasound visualization technology has a long history in articulatory phonetics as a research tool, speech therapy device, and language teaching aid (@kelsey1969applications; @stone2005preface).
+
+"With ultrasound, high frequency sound is emitted through a transducer (the ‘probe’) that can be held against the neck so that the sound can travel through the tongue and be reflected back to the transducer, creating a 2-dimensional image of the tongue. Because it does not image through bone or air, ultrasound does not allow visualization of the palate, jaw, or rear pharyngeal wall; thus, it is typically used to image only the tongue in speech applications."
+
+It is safe, non-invasive, versatile, requires little set-up, and is comparatively inexpensive to techniques such as EMA.
+
+Ultrasound-based visual feedback has been increasingly used in teaching and learning of second language sounds, inspired by work using it in clinical interventions with deaf and hard-of-hearing learners of spoken language [@bernhardt2005ultrasound; @bernhardt2003speech].
+
+Many studies of this type include a small number of learners, typically 10 or fewer. Sessions range from 30 to 60 minutes, typically multiple sessions. 
+
+It is unclear if the gains made are due to attention-orienting "wow factor" of the technology or genuinely due to the learners' ability to interpret and respond to the visual articulation feedback. (Maybe I can include a questionnaire at the end with questions e.g., "Before starting, how excited were you to use this technology?" "After using the technology, has your excitement grown?")
+
+## @wilson2014using
+
+Systems that assess a learner's articulation based on an acoustic signal risk drawing false inferences. Ultrasound, which measures a learner's articulation directly, is less prone to these kinds of errors. Easier to interpret than a spectrogram.
+
+## @gick2008ultrasound
+
+Allows for top-down (revealing underlying articulatory setting) and bottom-up (learners view real-time images of their tongues as they produce individual sounds) methods.
+
+## @colantoni2006native
+
+10 L1 English L2 Spanish (5 intermediate & 5 advanced) acquisition of stop-liquid clusters on three measures: stop voicing; rhotic length and voicing; epentehsis rate and vowel length. All participants except 1 advanced learner had a meaningful difference from L1 Spanish controls. But they did not test alveolar versus dental specifically. They mentioned that there was "considerable affrication, especially in /tr/ tokens" (p. 65).
+
+"The most common variant was the L1-transffered approximant [ɹ] followed by apical trills and fricatives (i.e., the second half of an affricate)" (p. 66).
+
+"Some of the problem with devoicing is related to the learners’ affrication. When affricated, target <r> was generally devoiced" (p. 66).
+
+## @colantoni2018mixed
+
+
+
+# Topic Summaries
+
+## Alveolar versus dental plosives
+
+Mention varieties of English that use dental plosives.
+
+Spanish and English both contrast voicing, but distinctly. English voiceless-voiced contrast in word and stressed syllable-initial stops is realized as long versus short lag; Spanish, on the other hand, uses a short lag-prevoiced contrast [@lisker1964cross].
+
+## English vs Spanish rhotics
+
+Both English and Spanish have coronal rhotics, but they differ in manner. American English <r> is realized as an approximant [ɹ]. Standard Spanish has available the tap/flap [ɾ] and the trill [r], although there is variation [@navarro1974manual].
+
+In North American English, [ɾ] is an allophone of /t d/.
+
+## /t d/ + rhotic clusters
+
+### English
+
+Mention allophony & issues with transcription:
+@scobbie2006acquisition
+@cruttenden2014gimson
+@carley2019american
+
+Mention that in American English, it's a widespread feature to affricate /t d/ before rhotic.
+
+### Spanish
+
+Mention dialects where affrication takes place.
+
+In stop+rhotic clusters, Spanish epenthiszes a vowel, with a mean length of 31-40ms. This will be noted, but not be put under investigation for the current ultrasound study [@colantoni2005phonetically; @straka1970phonetique; @blecua2001vibrantes].
+
+## Ultrasound
+
+### Ultrasound methodologies
+
+### Ultrasound used for L2 visual feedback
+
+@bliss2018computer
+@gick2008ultrasound
+@wilson2014using
