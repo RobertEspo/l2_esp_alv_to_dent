@@ -12,10 +12,6 @@ Ultrasound visualization technology has a long history in articulatory phonetics
 
 "With ultrasound, high frequency sound is emitted through a transducer (the ‘probe’) that can be held against the neck so that the sound can travel through the tongue and be reflected back to the transducer, creating a 2-dimensional image of the tongue. Because it does not image through bone or air, ultrasound does not allow visualization of the palate, jaw, or rear pharyngeal wall; thus, it is typically used to image only the tongue in speech applications."
 
-It is safe, non-invasive, versatile, requires little set-up, and is comparatively inexpensive to techniques such as EMA.
-
-Ultrasound-based visual feedback has been increasingly used in teaching and learning of second language sounds, inspired by work using it in clinical interventions with deaf and hard-of-hearing learners of spoken language [@bernhardt2005ultrasound; @bernhardt2003speech].
-
 Many studies of this type include a small number of learners, typically 10 or fewer. Sessions range from 30 to 60 minutes, typically multiple sessions. 
 
 It is unclear if the gains made are due to attention-orienting "wow factor" of the technology or genuinely due to the learners' ability to interpret and respond to the visual articulation feedback. (Maybe I can include a questionnaire at the end with questions e.g., "Before starting, how excited were you to use this technology?" "After using the technology, has your excitement grown?")
@@ -23,10 +19,6 @@ It is unclear if the gains made are due to attention-orienting "wow factor" of t
 ## @wilson2014using
 
 Systems that assess a learner's articulation based on an acoustic signal risk drawing false inferences. Ultrasound, which measures a learner's articulation directly, is less prone to these kinds of errors. Easier to interpret than a spectrogram.
-
-## @gick2008ultrasound
-
-Allows for top-down (revealing underlying articulatory setting) and bottom-up (learners view real-time images of their tongues as they produce individual sounds) methods.
 
 ## @colantoni2006native
 
@@ -38,7 +30,131 @@ Allows for top-down (revealing underlying articulatory setting) and bottom-up (l
 
 ## @colantoni2018mixed
 
+Acquisition of stop-rhotic clusters in L1 English L2 Spanish intermediate and advanced speakers.
 
+## @dart1991articulatory
+
+Articulatory and acoustic properties of of apical and laminal articulations. Across language (English & French) and within language (Mayalayam & 'O'odham). Acoustic recordings, palatograms, and linguagrams.
+
+English & French speakers with nearly identical apicality and place of articulation nonetheless had different acoustics. French is spoken with a higher tongue body behind hte constriction and with less of a sublingual cavity than English, supporting a language-specific "base of articulation". 
+
+## @dugan2023qualitative
+
+Ultrasound is used in clinical setting.
+
+## @gick2008ultrasound
+
+Review of ultrasound imaging in L2 acquisition.
+
+Ultrasound imaging is relatively affordable, non-invasive, safe, portable, quick, and verstile, while offering high-dimensional continuous data to be viewed and/or collected.
+
+Allows for top-down (revealing underlying articulatory setting) and bottom-up (learners view real-time images of their tongues as they produce individual sounds) methods.
+
+Describes single-participant intervention study: (a) a baseline; (b) the intervention, and (c) a follow-up. Intelligibility measured at each session at two-thirds of the way through the session after the client has "warmed up" and before fatigue sets in. Criteria is met when participant produces 7/10 target productions during a sub-phase. Aspects of speech production to be analyzed include: (a) articulator production and accuracy of segments and (b) speech intelligibility and accuracy of production.
+
+Stimuli: at least 10 productions of each token. In this case, /tr/ in word-initial position (trato), word-internal position (encontrar), and sentence-medial position (el trato). Maybe for that final condition, include place assmilation conditions (e.g., el trato vs en tren vs la trama).
+
+Evaluation criteria: 1-4 Likert scale. 1 = exactly on target; 2 = in category; 3 = somewhat; 4 = not at all. Set criteria and judge accordingly. e.g., English /r/: C1 = tongue root retraction; C2 = tongue grooving; C3 = palatal constriction; C4 = S-shape configuration for tongue.
+
+Example of reporting: "Pre- and post-training ultrasound recordings of /r/ and /l/ were made using an Aloka ProSound SSD-5000 ultrasound machine with a UST-9118 endo-vaginal 180-degree convex array transducer held in position using a fixed mechanical arm."
+
+Example of procedure: Participants read randomized word list ten times pre- and post-training, each word uttered in carrier phrase "See X be".
+
+After, they produce the ultrasound images, researcher reviews most troublesome productions from the ultrasound video-recordings with participants for about 30 mins. Compared their images with authors' images and point to specific features. 
+
+## @honikman1964articulatory
+
+Articulatory setting.
+
+## @bernhardt2005ultrasound
+
+Deaf & hard of hearing using ultrasound to acquire spoken language.
+
+## @bernhardt2003speech
+
+Deaf & hard of hearing using ultrasound to acquire spoken language.
+
+## @catford1970auditory
+
+When teaching new sounds, giving subjects articulatory instruction and having them silently practice is more effective than simply listening and mimicking. The advantage carried over to speech perception; subjects were received articulatory training also showed more proficiency at identifying the new sounds they were producing. A perception task can be done for dental vs alveolar /t/.
+
+## @gonzalez2023acquisition
+
+Acoustic realization of rhotics in Spanish onset clusters in 25 L1 English L2 Spanish learners. Comparison of rhotic manner, duration, and svarabhakti (epenthetical) vowel occurrence.
+
+Participants interviewed once at beginning of semester and once at end. Pronunciation task task, perception task, and grammar test. Grammar test had 10 questions and divided participants into 3 proficiency levels (low, mid, high).
+
+Stimuli were disyllabic nonce words with open syllables, word initial stress, and stop-rhotic cluster in first syllable (e.g., prafa, trafa, crafa, brafa, drafa, grafa). Eliminated issues of word frequency and lexical familiarity.
+
+Stop place significantly impacted rhotic manner for fricatives only, which were more prevalent after dental stops. Proficiency had no effect (expected, given the way it was measured); immersion in Spanish-speaking country did impact likelihood of fricative realization for rhotic (decrease).
+
+## @jongman1985acoustic
+
+Acoustic properties for dental and alveolar stop consonants.
+
+Dental/alveolar stops in Malayalam, which uses the sounds contrastively. Rms amplitude of burst normalized to rms amplitude of vowel distinguishes the two classes (rms amp of alveolar > dental; 92% of data correctly classified). The model was applied to English CV and Dutch CV(C) syllables, but performed worse: 68% & 63%, respectively. 
+
+One speaker of English & one of Dutch produced coronal stops that were not consistently categorized as either dental or alveolar by their metric. It seems that more variability in place is allowed when there is no contrastive segment.
+
+## @katz2015visual
+
+Visual feedback for L1 English producing voiced, coronal, palatal stop using electromagnetic articulography (EMA).
+
+## @kelly2019perception
+
+Irish English contrasts alveolar and dental stops. How do Americans, who do not make alveolar/dental contrast, perceive the contrast and can they distinguish them? Participants: 10 IE, 10 AE. Two-alternative forced choice task using minimal pairs of voiced & voiceless stops in initial and final position, asked whether they heard <t d> or <th>.
+
+Americans performed significantly worse than Irish, but both groups had high accuracy. So Americans can distinguish alveolar vs dental stops even though it's not in their native dialect.
+
+## @levitt2007augmented
+
+EMA used for augmented visual feedback in L1 English to learn Japanese post-alveolar flap.
+
+## @mccarthy2019acoustics
+
+Acoustics of place of articulation in English plosives.
+
+## @morales2017development
+
+Development of L1 English L2 Spanish stop-rhotic clusters through visual feedback and drills. Doesn't use ultrasound.
+
+## @ouni2014tongue
+
+Visual feedback with ultrasound is useful for tongue control only after a 15-20 min training session where they gained awareness about their tongue movements in real-time, increasing awareness of their tongue gestures. Participants who received training, which consisted of practicing the predefined gestures, how to read an ultrasound image by showing the palate, the tongue, and the overall shape of the vocal tract, performed the gestures more accurately than the group that did not receive training. 
+
+## @schwartz2023all
+
+Polish & English perception of stop+rhotic clusters.
+
+According to @scobbie2006acquisition, the sequences are often pronounced as rhotacized post-alveolar affricates, with rhotacization distinguishing them from the post-alveolar /t͡ʃ/ and /d͡ʒ/. However, these authors do not offer a particular transcription of the clusters. Wells (2011) claims the sequences are the result of a retracted /t/ and fricativized /ɹ/, clearly distinct from the post-alveolar affricates, and he does not advocate transcribing the affrication. @cruttenden2014gimson transcribes the sequences as [tɹ̝̊] and [dɹ̝], with the IPA diacritic for raising on the approximant. @carley2019american describe the clusters as “phonetic affricates” that are analogous to stop-fricative sequences, but their transcriptions ([tɹ], [d ̥ ɹ]) do not use the raising diacritic employed by @cruttenden2014gimson. Note that both @cruttenden2014gimson and @carley2019american use the devoicing diacritic for the /tr/ sequence, and neither of these works uses the symbols for post-alveolar affricates/fricatives. Indeed, none of these authors suggests that the affricated clusters are merged with the post-alveolar affricates /t͡ʃ d͡ʒ/, despite their phonetic similarity.
+
+## @sundara2008discrimination
+
+Discrimination of dental vs alveolar voiced coronal stops /d/ by English-French simultaneous bilinguals, monolinguals, and advanced early L2 learners. Categorical AXB. Compared to L1 Hindi listeners.
+
+L1 French performed worst because they have alveolar obstruents, but not dental.
+
+L1 English performed better than L1 French because they have alveolar and dental obstruents, but still mostly performing at chance.
+
+Early L1 English L2 French did not differ from L1 French or L1 English.
+
+Simultaneous English-French bilinguals performed consistently above-chance and did not differ from Hindi listeners.
+
+All individuals performed better with back vowels than front vowels. So maybe the trianing focus should first be on back vowels, and then move to front vowels?
+
+## @vera2012production
+
+Production & perception of epenthetic vowel in obstruent+liquid clusters in Spanish. 
+
+## @waltmunson2005relative
+
+34 L1 English L2 Spanish learners in acquisition of production of word-medial /d t ɾ r/, word-intial /r/, and onset cluster /ɾ/. Emergence of svarabhakti vowel in onset clusters. Semi-longitudinal: multiple sessions across 6-month or 2-month period.
+
+Ranking of difficutly: /r <= ɾ <= d <= t/.
+
+/ɾ/ had strong effect of syllable position on accuracy score.
+
+Support for hypothesis that learning of a sound that requires additional gestural skills (e.g., /r/) is more difficult than the learning of sounds that do not require new gestural skills (e.g., /d t ɾ/). 
 
 # Topic Summaries
 
@@ -59,11 +175,14 @@ In North American English, [ɾ] is an allophone of /t d/.
 ### English
 
 Mention allophony & issues with transcription:
+
 @scobbie2006acquisition
 @cruttenden2014gimson
 @carley2019american
 
 Mention that in American English, it's a widespread feature to affricate /t d/ before rhotic.
+
+@edwards1997applied reports VOT of 93 ms for /tr/, longer than /kr/ (84 ms) or /pr/ (59 ms). The VOT seems to add difficulty for L1 English L2 Spanish learners producing these clusters in Spanish. @gonzalez2023acquisition found that L1 English L2 Spanish clusters patterend similarly in terms of fricative for the rhotic: 11% /pr/, 37% /kr/, 52% /tr/.
 
 ### Spanish
 
@@ -71,12 +190,33 @@ Mention dialects where affrication takes place.
 
 In stop+rhotic clusters, Spanish epenthiszes a vowel, with a mean length of 31-40ms. This will be noted, but not be put under investigation for the current ultrasound study [@colantoni2005phonetically; @straka1970phonetique; @blecua2001vibrantes].
 
+### L2 acquisition models
+
+Linguistic Perception Model [L2LP; @escudero2009linguistic; @escudero2007second; @escudero2005linguistic]
+
+The revised Speech Learning Model [SLM-r; @flege1995second; @flege2021revised].
+
+### L2 Spanish acquisition or stop+rhotic cluster
+
+@waltmunson2005relative
+@colantoni2006native
+@colantoni2018mixed
+@hurtado2010factors
+@morales2017development
+
 ## Ultrasound
 
+Ultrasound is used in clinical setting [@dugan2023qualitative].
+
+Used with deaf & heard of hearing to acquire spoken language [@bernhardt2005ultrasound; @bernhardt2003speech].
+
 ### Ultrasound methodologies
+
+@gick2008ultrasound provides single-participant intervention.
 
 ### Ultrasound used for L2 visual feedback
 
 @bliss2018computer
 @gick2008ultrasound
 @wilson2014using
+@levitt2007augmented. 
