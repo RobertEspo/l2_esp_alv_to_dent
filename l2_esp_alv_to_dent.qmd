@@ -50,11 +50,21 @@ format:
 library(here)
 ```
 
-<!-- The introduction should not have a level-1 heading such as Introduction. -->
+Second language (L2) learners have the task of acquiring a new phonological system, including language-specific timing and fine-grained phonetic details, after they have already established their first language (L1). Although some researchers have claimed that native-like acquisition of fine-grained phonetics is impossible [@scovel1988power; @long1990least], others have demonstrated that exceptional cases exist in which L2 speakers have performed in a native-like manner [@colantoni2006native; @face2021ultimate]. In the L2 classroom, phonetics receives little attention in general [@derwing2005second; @gilbert2014intonation] despite the fact that both explicit [@gordon2012pronunciation] and implicit [@saito2015communicative] teaching methodologies have resulted in gains for the L2 learners.
 
-This is my first paragraph. Any section headings in the introduction should be in levels 2--5.
+One methodology for incorporating training of non-native sounds in L2 learners is ultrasound visualization. Although ultrasound has of history of use in clinical settings for diagnosis and rehabilitation [@dugan2023qualitative], it has been extended to teaching spoken language to the deaf and hard of hearing [@bernhardt2005ultrasound; @bernhardt2003speech] and to L2 learners [@bliss2018computer; @gick2008ultrasound; @wilson2014using; @levitt2007augmented]. The present study is a single-participant design [@gick2008ultrasound] investigating the effects of ultrasound visualization feedback on the acquisition of /t d/ + rhotic clusters in L1 English L2 Spanish learners. Participants completed a pre-test, an intervention, and a post-test. Acoustic measures were collected during the pre- and post-tests as quantitative measures.
 
-## Section in Introduction
+## Spanish vs English alveolar plosives acoustics and articulations
+
+## L1 English L2 Spanish word-initial /t d/ acquisition
+
+## L1 English L2 Spanish /ɾ/ acquisition
+
+## L1 English L2 Spanish /tɾ dɾ/ acquisition
+
+## Ultrasound
+
+In general and for L2 feedback
 
 # Method
 

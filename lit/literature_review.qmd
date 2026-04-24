@@ -182,7 +182,7 @@ Mention allophony & issues with transcription:
 
 Mention that in American English, it's a widespread feature to affricate /t d/ before rhotic.
 
-@edwards1997applied reports VOT of 93 ms for /tr/, longer than /kr/ (84 ms) or /pr/ (59 ms). The VOT seems to add difficulty for L1 English L2 Spanish learners producing these clusters in Spanish. @gonzalez2023acquisition found that L1 English L2 Spanish clusters patterend similarly in terms of fricative for the rhotic: 11% /pr/, 37% /kr/, 52% /tr/.
+@edwards1997applied reports VOT of 93 ms for /tɾ/, longer than /kɾ/ (84 ms) or /pɾ/ (59 ms). The VOT seems to add difficulty for L1 English L2 Spanish learners producing these clusters in Spanish. @gonzalez2023acquisition found that L1 English L2 Spanish clusters patterend similarly in terms of fricative for the rhotic: 11% /pɾ/, 37% /kɾ/, 52% /tɾ/.
 
 ### Spanish
 
@@ -220,3 +220,15 @@ Used with deaf & heard of hearing to acquire spoken language [@bernhardt2005ultr
 @gick2008ultrasound
 @wilson2014using
 @levitt2007augmented. 
+
+# Outline
+
+Introduction.
+
+Spanish vs English alveolar plosives acoustics and articulations.
+
+L1 English L2 Spanish word-initial /t d/ acquisition.
+
+L1 English L2 Spanish /ɾ/ acquisition.
+
+L1 English L2 Spanish /tɾ dɾ/ acquisition.
