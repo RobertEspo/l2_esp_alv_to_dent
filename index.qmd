@@ -23,11 +23,12 @@ knitr::opts_chunk$set(
   dpi = 300
   )
 
-set.seed(20251108)
+set.seed(20260510)
 
 library("tidyverse")
 library("here")
 library("knitr")
+library("flextable")
 
 theme_psllt <- function(...) {
   list(
@@ -72,21 +73,262 @@ Methods
 
 # Visual Feedback {.transition}
 
-## Indirect Visual Feedback
+## 
 
-## Direct Visual Feedback
+Speakers incorporate [visual cues]{.emph} in their L1 [@bernstein2004auditory] and L2 [@navarra2007hearing; @engwall2008can]
+
+::: fragment
+
+L2 classrooms typically avoid teaching pronunciation [@derwing2005second; @gilbert2014intonation] despite the benefits [@gordon2012pronunciation; @saito2015communicative]
+
+:::
+
+::: fragment
+
+[Suprasegmentals]{.emph} have been taught with visual feedback [@chun2002discourse; @chun1998signal; @chun1989teaching]
+
+:::
+
+::: fragment
+
+- ... but little has been done with [segmentals]{.emph} [@bliss2018computer]
+
+::: 
+
+##
+
+[Indirect]{.emph} visual feedback includes e.g., spectrography
+
+::: fragment
+
+Spectrographic feedback resulted in improvements for vowels and consonants [@molholt1990spectrographic; @akahane1997second; @olson2014benefits; @niermann2016spectrographic]
+
+:::
+
+::: fragment
+
+but...
+
+:::
+
+::: incremental
+
+- steep learning curve
+- does not provide an explanation of the user's error 
+- or the articulatory cause of those errors [@rogerson2021computer; @wilson2014using]
+
+:::
+
+##
+
+[Direct]{.emph} visual feedback provides information about articulators
+
+::: fragment
+
+Electromagnetic articulography (EMA) has produced gains in learner pronunciation of segments [@levitt2007augmented; @suemitsu2015real]
+
+:::
+
+::: fragment
+
+... but EMA is prohibitively expensive for the teacher and uncomfortably intrusive for the learner
+
+:::
+
+##
+
+[Ultrasound]{.emph} machines have become increasingly affordable, portable, and are non-invasive [@gick2005techniques]
+
+::: incremental
+
+History of use in...
+
+- clinical setting [@dugan2023qualitative]
+- teaching spoken language to the hard-of-hearing and deaf [@bernhardt2005ultrasound; @bernhardt2003speech]
+- accent correction in L2 learners [@badin2010visual; @ouni2014tongue]
+
+:::
+
+::: fragment
+
+Despite benefits, remains infrequently used in SLA research and the L2 classroom
+
+:::
 
 # Coronal Stop-Rhotic Clusters {.transition}
 
-## Coronal Stops
+## Coronal Stops {.smaller}
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+stop_table <- data.frame(
+  Feature = c("VOT lag","POA"),
+  English = c("short/long", "alveolar"),
+  Spanish = c("lead/short", "dental"),
+  row.names = c("VOT", "POA")
+) %>%
+  flextable(.) %>%
+  bold(part="header") %>%
+  autofit()
+  
+stop_table
+```
+
+::: fragment 
+Common to investigate L2 acquisition of VOT [@casillas2020longitudinal; @schuhmann2019development; @olson2022phonetic]
+
+:::
+
+::: fragment
+
+Less common to investigate acquisition of place of articulation
+
+:::
+
+::: fragment
+
+American English speakers can distinguish alveolar vs dental stops in Irish English with only slightly less accuracy than Irish English natives [@kelly2019perception]
+
+:::
 
 ## Rhotics
 
+[ɾ] is [phonemic]{.emph} in Spanish and [allophonic]{.emph} in English, but they're phonetically similar [@zue1979acoustic; @reetz2020phonetics]
+
+::: fragment
+
+Despite that, beginner L1 English L2 Spanish produce [ɾ] as [ɹ] [@weech2009second]
+
+:::
+
+::: fragment
+
+Overall target-like production increases with proficiency [@face2006intervocalic] and experience [@weech2009second]
+
+:::
+
+::: fragment
+
+But even 5th semester undergrads and graduate students in a Hispanic linguistics & literature program found that learners do not encode /ɾ r/ distinction in their lexicon [@daidone2014quierro]
+
+:::
+
 ## Coronal Stop-Rhotic Clusters
+
+/t d/ + rhotic onset clusters are phonotactically legal in both English & Spanish
+
+::: fragment
+
+Although the individual segments are relatively similar, the clusters are realized phonetically differently
+
+:::
+
+::: fragment
+
+American English /tr dr/ are often pronounced as rhotacized post-alveolar affricates [@scobbie2006acquisition; @schwartz2023all; @cruttenden2014gimson; @carley2019american]
+
+:::
+
+::: fragment
+
+Spanish /tɾ dɾ/ are often pronounced [tɾ dɾ]
+
+:::
+
+## Spanish Coronal Stop-Rhotic Clusters {.smaller}
+
+L1 English L2 Spanish /tɾ dɾ/ production has been assessed with five measures [@gonzalez2023acquisition; @colantoni2006native; @morales2017development; @colantoni2018mixed]:
+
+- stop VOT
+- rhotic manner
+- rhotic duration
+- presence of epenthetic vowel
+- duration of epenthetic vowel
+
+::: fragment
+
+Learners who receive spectrography training outperform control group on target-like production [@morales2017development]
+
+:::
+
+::: fragment
+
+Target-like production does occur in advanced learners, but it's the exception [@colantoni2006native]
+
+:::
+
+##
+
+L1 English L2 Spanish acquire coronal stop-rhotic cluster phonetics in specific order:
+
+<br>
+
+<center>
+stop voicing > rhotic manner/duration >
+
+presence/absence & duration of epenthetic vowel
+</center>
+
+::: fragment
+
+Is this ordering sensitive to training?
+
+:::
+
+::: fragment
+
+Rhotic manner and presence of epenthetic vowel seem dependent on POA of stop, but little explicit or direct investigation of stop placement in L1 English L2 Spanish learners
+
+:::
+
+::: footer
+
+[@morales2017development; @colantoni2006native]
+
+:::
 
 # Perception-Production Link {.transition}
 
-##
+## 
+
+::: fragment
+
+Second Language Linguistic Perception [L2LP; @van2015learning] proposes perception precedes production [@casillas2020phonetic]
+
+:::
+
+::: fragment
+
+So it seems unintuitive to train production before perception
+
+:::
+
+::: fragment
+
+but...
+
+:::
+
+::: incremental
+
+- we see that production can precede perception [@sheldon1982acquisition]
+- some L2 models privilege the role of production [@swain2005output] 
+- learners given articulatory instruction, instead of just "listen and repeat", perform better in production & perception [@catford1970auditory]
+
+:::
+
+# Research Questions {.transition}
+
+1. First (production)
+
+2. Second (production)
+
+3. Third (perception)
+
+4. Fourth (perception)
 
 # Methods {.transition}
 
@@ -100,7 +342,76 @@ Methods
 
 ## Tasks
 
+- Delayed shadowing (production)
+- AXB discrimination (perception)
+- AB identification (perception)
+
+## Delayed Shadowing
+
+- 30 target nonce words & 40 distractors
+- target words: bisyllabic trVCV with penultimate stress
+- each of five Spanish vowels represented first V six times
+- Second syllable variably started with one of six stop consonants
+- Final V always /a/
+- Presented in random order & repeated three times each
+- Recorded with ultrasound imaging
+
+## AXB Discrimination & AB Identification
+
+- Stimuli manipulated on two dimensions: place of articulation and voicing
+- POA differences produced by native bilingual
+- VOT differences manipulated in Praat
+
+## Ultrasound Training {.smaller}
+
+::: incremental 
+
+- 30 to 45 mins
+- Participants given ~10 mins of instructions during first training session
+- Shown how to view midsaggital or coronal views
+- Provided with .mp4 files of native Spanish speakers producing target clusters with time aligned audio and text 
+- Provided with the following questions at each session [@olson2014benefits]:
+  - Describe the visual difference between your production and pronunciation by a native Spanish speaker
+  - Where is the Spanish speaker's tongue tip when they pronounce 't'?
+  - Where is the Spanish speaker's tongue tip when they pronounce 'r'?
+
+:::
+
 ## Procedure
+
+Five sessions over five consecutive weeks
+
+::: fragment
+
+<center>At each session...</center>
+
+:::
+
+::: fragment
+
+[Control]{.emph} group completed delayed shadowing -> AXB discrimination -> AB identification
+
+:::
+
+::: incremental
+
+- [Experimental]{.emph} group completed delayed shadowing --> AXB discrimination --> AB identification
+
+- At sessions 2, 3, and 4, they also completed 30-45 mins of [ultrasound training]{.emph}
+
+:::
+
+## Data Analysis
+
+- Acoustic and perception judgements over the 5 sessions will be analyzed using generalized additive linear models
+
+::: incremental
+
+- "Magic moment" of ultrasound will be tongue tip contact for stop consonant
+- Or looking for two points of contact (dental stop + alveolar tap)?
+- Advice would be appreciated :-)
+
+:::
 
 ## Thanks! {.final visibility="uncounted"}
 
@@ -143,5 +454,5 @@ Methods
 
 ## References {visibility="uncounted"}
 
-::: {#refs .smaller}
+::: {#refs .smaller .scrollable}
 :::
