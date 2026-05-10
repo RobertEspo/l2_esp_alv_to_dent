@@ -1,5 +1,5 @@
 ---
-title: "Interpreting Experience Mediates Recruitment of Early Intonational Cues to Sentence Modality: An Eye Tracking Study"
+title: "L1 English L2 Spanish Coronal Stop-Rhotic Cluster Training: An Ultrasound Study"
 author: "Robert Esposito"
 institute: "Rutgers University"
 date: "Last update: `r Sys.Date()`"
@@ -44,7 +44,63 @@ theme_set(theme_grey(base_size = 30))
 
 ```
 
+# Roadmap {.transition}
 
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+Visual feedback
+:::
+:::
+
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+Coronal stop-rhotic onset clusters in Spanish
+:::
+:::
+
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+Perception-production link
+:::
+:::
+
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+Methods
+:::
+:::
+
+# Visual Feedback {.transition}
+
+## Indirect Visual Feedback
+
+## Direct Visual Feedback
+
+# Coronal Stop-Rhotic Clusters {.transition}
+
+## Coronal Stops
+
+## Rhotics
+
+## Coronal Stop-Rhotic Clusters
+
+# Perception-Production Link {.transition}
+
+##
+
+# Methods {.transition}
+
+## Participants
+
+- 20 L1 English L2 Spanish learners
+  - 10 in experimental group
+  - 10 in control group
+- Proficiency level: A1
+- Domestic immersion program
+
+## Tasks
+
+## Procedure
 
 ## Thanks! {.final visibility="uncounted"}
 
