@@ -296,13 +296,7 @@ Rhotic manner and presence of epenthetic vowel seem dependent on POA of stop, bu
 
 ::: fragment
 
-Second Language Linguistic Perception [L2LP; @van2015learning] proposes perception precedes production [@casillas2020phonetic]
-
-:::
-
-::: fragment
-
-So it seems unintuitive to train production before perception
+L2LP [@van2015learning] proposes perception precedes production [@casillas2020phonetic], so it seems unintuitive to train production before perception
 
 :::
 
@@ -320,15 +314,13 @@ but...
 
 :::
 
-# Research Questions {.transition}
+# Research Questions {.transition .smaller}
 
-1. First (production)
+1. Does training coronal stop-rhotic clusters in L1 English L2 Spanish learners speed up acquisition?
 
-2. Second (production)
+2. Is the order of the phonetic aspects of coronal stop-rhotic clusters fixed for L1 English L2 Spanish learners?
 
-3. Third (perception)
-
-4. Fourth (perception)
+3. Does perception of phonetic aspects of coronal stop-rhotic clusters precede production in L1 English L2 Spanish learners?
 
 # Methods {.transition}
 
